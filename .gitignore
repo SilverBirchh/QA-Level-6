@@ -1,0 +1,23 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/ig-technical-analysis//dist
+/ig-technical-analysis//tmp
+
+# dependencies
+/ig-technical-analysis/node_modules
+/ig-technical-analysis/bower_components
+
+# misc
+/ig-technical-analysis/.sass-cache
+/ig-technical-analysis/connect.lock
+/ig-technical-analysis/coverage/*
+/ig-technical-analysis/libpeerconnection.log
+/ig-technical-analysis/npm-debug.log*
+/ig-technical-analysis/yarn-error.log
+/ig-technical-analysis/testem.log
+
+# ember-try
+/ig-technical-analysis/.node_modules.ember-try/
+/ig-technical-analysis/bower.json.ember-try
+/ig-technical-analysis/package.json.ember-try
